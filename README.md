@@ -1,4 +1,4 @@
-</img align = "right" width= "400"src="http://onlineresize.club/2021-club.html">
+</img align="right" alt="Coding" width="400" src="https://media.tenor.com/AfMj1IQE0pMAAAAC/bocchi-the-rock.gif">
 <h1 align="center">Hi 👋, I'm zaki</h1>
 <h3 align="center">A passionate frontend developer from Jakarta</h3>
 
